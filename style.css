@@ -18,3 +18,12 @@ body{
     align-items: center;
     justify-content: center;
 }
+.card{
+    background: var(--White);
+    width: 350px;
+    height: 550px;
+    text-align: center;
+    box-shadow:  16px 19px 17px rgba(0,0,0,0.1);
+    border-radius: 1rem;
+   
+}
