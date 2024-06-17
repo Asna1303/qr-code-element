@@ -9,7 +9,7 @@
     font-family: 'Outfit', sans-serif;
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing:border-box;
 }
 body{
     min-height: 100vh;
@@ -24,7 +24,7 @@ body{
     height: 550px;
     text-align: center;
     box-shadow:  16px 19px 17px rgba(0,0,0,0.1);
-    border-radius: 1rem;
+    border-radius: 2rem;
    
 }
 .container{
